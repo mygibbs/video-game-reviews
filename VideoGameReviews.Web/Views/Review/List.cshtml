@@ -1,0 +1,13 @@
+﻿@model IEnumerable<VideoGameReviews.Domain.Repository.Base.IReview>
+
+@{
+    ViewBag.Title = "Reviews";
+}
+
+@foreach (var review in Model)
+{
+    <div class="review">
+        <h3>@review.Title</h3>
+        <p>@review.Description</p>
+    </div>
+}

@@ -1,0 +1,13 @@
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\VideoGameReviews.Domain.dll.config
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\VideoGameReviews.Domain.dll
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\VideoGameReviews.Domain.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\EntityFramework.dll
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Moq.dll
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Ninject.dll
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\EntityFramework.xml
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Moq.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Moq.xml
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Ninject.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\bin\Debug\Ninject.xml
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\obj\Debug\VideoGameReviews.Domain.dll
+C:\dev\VideoGameReviews\VideoGameReviews.Domain\obj\Debug\VideoGameReviews.Domain.pdb

@@ -1,0 +1,17 @@
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.UnitTests.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.UnitTests.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Moq.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Ninject.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.Domain.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.Web.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\EntityFramework.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.Domain.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\VideoGameReviews.Web.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Moq.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Moq.xml
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Ninject.pdb
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\Ninject.xml
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\bin\Debug\EntityFramework.xml
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\obj\Debug\VideoGameReviews.UnitTests.csprojResolveAssemblyReference.cache
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\obj\Debug\VideoGameReviews.UnitTests.dll
+C:\dev\VideoGameReviews\VideoGameReviews.UnitTests\obj\Debug\VideoGameReviews.UnitTests.pdb

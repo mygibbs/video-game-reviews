@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameReviews.Domain", "VideoGameReviews.Domain\VideoGameReviews.Domain.csproj", "{04FDDEB3-0362-4351-AD82-DF824A2F6917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameReviews.Web", "VideoGameReviews.Web\VideoGameReviews.Web.csproj", "{CCF357DA-1E7D-44E3-9E49-E3F2BFADCEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoGameReviews.UnitTests", "VideoGameReviews.UnitTests\VideoGameReviews.UnitTests.csproj", "{256CB7D2-F7D4-4B7E-8246-BFAA0C5935D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FDDEB3-0362-4351-AD82-DF824A2F6917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FDDEB3-0362-4351-AD82-DF824A2F6917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FDDEB3-0362-4351-AD82-DF824A2F6917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FDDEB3-0362-4351-AD82-DF824A2F6917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF357DA-1E7D-44E3-9E49-E3F2BFADCEF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF357DA-1E7D-44E3-9E49-E3F2BFADCEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF357DA-1E7D-44E3-9E49-E3F2BFADCEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF357DA-1E7D-44E3-9E49-E3F2BFADCEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256CB7D2-F7D4-4B7E-8246-BFAA0C5935D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256CB7D2-F7D4-4B7E-8246-BFAA0C5935D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256CB7D2-F7D4-4B7E-8246-BFAA0C5935D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256CB7D2-F7D4-4B7E-8246-BFAA0C5935D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
